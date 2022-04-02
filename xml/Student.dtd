@@ -1,0 +1,4 @@
+<!ELEMENT Students (stud)>
+<!ELEMENT stud (sname,srno)>
+<!ELEMENT sname (#PCDATA)>
+<!ELEMENT srno (#PCDATA)>

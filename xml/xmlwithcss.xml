@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<musicshop>
+	<title>Music Instruments</title>
+	<section>
+		<name>Wind Instruments</name>
+		<topic1>Flute</topic1>
+		<topic2>Oboe</topic2>
+		<topic3>Brass</topic3>
+		<topic4>Naadheswaram</topic4>
+	</section>
+	<section>
+		<name>Percussion Instruments</name>
+		<topic1>piano</topic1>
+		<topic2>Cymbals</topic2>
+		<topic3>Triangle</topic3>
+		<topic4>chimes</topic4>
+	</section>
+	<section>
+		<name>String Instruments</name>
+		<topic1>Violin</topic1>
+		<topic2>Guitar</topic2>
+		<topic3>cello</topic3>
+		<topic4>viola</topic4>
+	</section>
+	<section>
+		<name>Electronic Instruments</name>
+		<topic1>Keyboard</topic1>
+		<topic2>Electronic drum</topic2>
+		<topic3>Rhythm pad</topic3>
+		<topic4>Synthesizer</topic4>
+	</section>
+</musicshop>

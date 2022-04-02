@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="dt.css"?>
+<!DOCTYPE MCA[
+<!ELEMENT Student (class,stud)>
+<!ELEMENT class (#PCDATA)>
+<!ELEMENT stud (sname,sro)>
+<!ELEMENT sname (#PCDATA)>
+<!ELEMENT srno (#PCDATA)>
+]>
+<Student>
+<class>St.Xavier's College</class>
+<class>MCA-I YEAR</class>
+<title>Student List</title>
+<stud>
+<sname>Name: T Sam</sname>
+<srno>R.No: 21PCA513</srno>
+</stud>
+<stud>
+<sname>Name: Dani</sname>
+<srno>R.No: 21PCA517</srno>
+</stud>
+<stud>
+<sname>Name: Abdulla</sname>
+<srno>R.No: 21PCA530</srno>
+</stud>
+</Student>
